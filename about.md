@@ -1,8 +1,4 @@
----
-layout: page
-title: 关于
-permalink: /about/
----
+关于我们
 
 # 皓友是谁？
 
