@@ -1,12 +1,13 @@
 # 皓友是？
 
-左耳朵耗子的好朋友，简称皓友（耗油/ 好友）的一群人，程序员为主，包括其他各种专业人士，经常看coolshell博客，在社交媒体上和他互动。
+左耳朵耗子的朋友，简称皓友（耗油/ 好友）的一群人，程序员为主，包括其他各种专业人士，经常看coolshell博客，在社交媒体上和他互动。
 
-这个耗油的名称可能不太合适，是某位群友突发奇想，可以换一个更好的名称，取名也应公共参与、采纳众议、民主决策，欢迎提供好名称的建议，例如：
+这个耗油的名称可能不太合适，是某位群友突发奇想，换一个更好的名称，取名也应公共参与、采纳众议、民主决策，欢迎提供好名称的建议，例如：
 
 皓友/ 蚝油
 
 Coolshell/酷壳粉丝群
+
 
 # 为何众创空间？
 
@@ -43,10 +44,10 @@ Coolshell/酷壳粉丝群
 
 Discord社区（不流行，暂时无人参与）
 
-[Github博客](https://infinityx.notion.site/infinityx)
+[Github博客](https://atomx3.github.io/coolshellx/)
 
 [Telegram](https://t.me/+es9UBEjlzic2OTll)
 
 本届博客管理员 Atom
 
-[**Blog](https://atomx.cc/) ｜ [Twitter](https://twitter.com/Atomxx3)  ｜ [Telegram](https://t.me/atomxxx)**
+[Blog](https://atomx.cc/) ｜ [Twitter](https://twitter.com/Atomxx3)  ｜ [Telegram](https://t.me/atomxxx)**
