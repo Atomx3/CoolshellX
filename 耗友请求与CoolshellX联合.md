@@ -47,17 +47,24 @@ writer: Atom
 
 [https://github.com/sighingnow/jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook) (Gitbook)
 
+
+请在网页底部**署名技术提供方**的链接，例如:
+Creation by static site generator[Hugo](https://gohugo.io/), theme[multilingual](https://themes.gohugo.io/tags/multilingual/), Developer[Black Lu](https://lucasblacklu.github.io).
+
+
+
 内容维护：
 
 我们会简单的git PR，本地写md文档，更新远程repo等，所以web 技术支持，基本是一次性到位就可以，后面我们只是往里面不断添加文本内容，应该不会占用技术人员额外的维护时间。
 
-## **二级域名**
+## **二级域名和邮箱**
 
-我们想分从 [coolshell.org](https://coolshell.org/) 或其他类似的coolshell一级域名中分个二级域名出来，名字我没想好，也可请你提一些好建议。
+我们想分从 [coolshell.org](https://coolshell.org/) 或其他类似的coolshell域名中分个二级域名出来，名字我没想好，也可请大家提一些好建议。
+
 
 取名基本原则：简短、定义清晰、易懂
 
-例如：
+### 域名例如：
 
 **用于媒体、公关、营销**
 Osmarketing.coolshell.org 开源营销
@@ -67,6 +74,16 @@ Ospr.coolshell.org 开源公关
 cloudmarket.coolshell.org 开源市场
 
 techmedia.coolshell.org 技术媒体
+
+### 邮箱用途：
+
+媒体: media@coolshell.org
+公关: pr@coolshell.org
+营销: marketing@coolshell.org
+公益: csr@coolshell.org
+开源：os@coolshell.org
+
+
 
 ## Web App 托管
 
