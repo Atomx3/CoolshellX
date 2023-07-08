@@ -1,4 +1,4 @@
-# 皓友请求与Coolshell.org联合
+# 耗友请求与Coolshell.org联合
 
 Created: June 24, 2023
 writer: Atom
