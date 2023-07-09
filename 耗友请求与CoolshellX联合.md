@@ -1,4 +1,4 @@
-# 耗友请求与Coolshell.X 联合
+# 耗友请求与CoolshellX 联合
 
 Created: June 24, 2023
 writer: Atom
@@ -49,6 +49,7 @@ writer: Atom
 请在网页底部**署名技术提供方**的链接，例如:
 Creation by static site generator[Hugo](https://gohugo.io/), theme[multilingual](https://themes.gohugo.io/tags/multilingual/), Developer[Black Lu](https://lucasblacklu.github.io).
 
+更新：2023.7.8 [Black Lu] 同学帮助完成了 GitHub Pages，由于coolshell相关 的github账户和域名已经被人注册，所以得联系其主人，要求共享github账号和域名。
 
 
 内容维护：
