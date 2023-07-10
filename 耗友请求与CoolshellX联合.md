@@ -47,14 +47,16 @@ writer: Atom
 
 
 请在网页底部**署名技术提供方**的链接，例如:
-Creation by static site generator[Hugo](https://gohugo.io/), theme[multilingual](https://themes.gohugo.io/tags/multilingual/), Developer[Black Lu](https://lucasblacklu.github.io).
+Creation by static site generator [Hugo](https://gohugo.io/), theme [multilingual](https://themes.gohugo.io/tags/multilingual/), Developer [Black Lu](https://lucasblacklu.github.io).
 
-更新：2023.7.8 [Black Lu] 同学帮助完成了 GitHub Pages，由于coolshell相关 的github账户和域名已经被人注册，所以得联系其主人，要求共享github账号和域名。
+更新：
+2023.7.8 [Black Lu] 同学帮助完成了 [GitHub Pages暂存在其私有库中](https://blackluopensource.github.io/)，由于coolshell相关 的github账户和域名已经被人注册，所以得联系其主人，请求共享github账号和域名。
 
 
 内容维护：
+对web技术支持的需求，基本是一次性到位就可以，应该不会占用技术人员额外的维护时间。
+我们会简单的git PR，本地写md文档，更新远程repo等，只是往里面不断添加文本内容，对于非IT技术人员而已，简单容易上手操作。如果不会在终端里配置git，用github desktop 桌面客户端也很方便。
 
-我们会简单的git PR，本地写md文档，更新远程repo等，所以web 技术支持，基本是一次性到位就可以，后面我们只是往里面不断添加文本内容，应该不会占用技术人员额外的维护时间。
 
 ## **二级域名**
 
@@ -66,26 +68,25 @@ Creation by static site generator[Hugo](https://gohugo.io/), theme[multilingual]
 ### 域名用途：
 **用于媒体、公关、营销**
 
-Osmarket.coolshell.org 开源市场
-
-Ospr.coolshell.org 开源公关
-
-cloudstore.coolshell.org 云市场
-
-techmedia.coolshell.org 技术媒体
+- Osmarket.coolshell.org 开源市场
+- Ospr.coolshell.org 开源公关
+- cloudstore.coolshell.org 云市场
+- techmedia.coolshell.org 技术媒体
 
 ### 域名邮箱：
 
-媒体: media@coolshell.org
-公关: pr@coolshell.org
-营销: marketing@coolshell.org
-公益: csr@coolshell.org
-开源：os@coolshell.org
+- 媒体: media@coolshell.org
+- 公关: pr@coolshell.org
+- 营销: marketing@coolshell.org
+- 公益: csr@coolshell.org
+- 开源：os@coolshell.org
 
 
 ### 备选域名
 
-coolshell.xyz, coolshell.vip, 贡献者[xiaomiwujiecao](https://github.com/xiaomiwujiecao)，资源链接“[xiaomiwujiecao关于陈皓先生的回忆](https://github.com/megaease/Remembering-Haoel/commit/7f4426651fba05e41c6652f949e3eaeedcf152b9)”
+coolshell.xyz, coolshell.vip,
+
+贡献者[xiaomiwujiecao](https://github.com/xiaomiwujiecao)，资源线索“[xiaomiwujiecao关于陈皓先生的回忆](https://github.com/megaease/Remembering-Haoel/commit/7f4426651fba05e41c6652f949e3eaeedcf152b9)”
 
 ### GitHub账号
 
