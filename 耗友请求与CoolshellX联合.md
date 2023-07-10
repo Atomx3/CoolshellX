@@ -17,7 +17,7 @@ writer: Atom
 
 ## 简介
 
-我们现在有个小组，主要目标是如何帮MegaEase做海外市场推广，我们以前都没有这种经验，通过远程协作，参考简介：
+我们现在有个小组，主要目标是如何为MegaEase实现海外推广，从事市场方面的外围辅助工作，我们以前都没有这种经验，延续耗哥写Coolshell博客的乐于助人的风格，通过写博客和共享文档远程协作。参考简介：
 
 [关于我们]
 
@@ -30,11 +30,11 @@ writer: Atom
 
 # 请求技术**支持**
 
-由于我们这个小组的人员缺乏IT技能，主要从事marketing，**擅长生成（媒体、公关、营销）内容**，目前用的是傻瓜式的 notion博客，这也太不极客了，可能由于notion 处于技术圈的鄙视链末端，我们的博客很不畅销，链接丢到技术圈的tg群里，几乎无人响应，穷则思变。。。于是采取以下动作。
+由于我们这个小组的人员缺乏IT技能，主要工作是**生成内容（媒体、公关、营销）、网络社群活动、代码之外的话题**，目前用的是傻瓜式的 notion博客，这也太不极客了，可能由于notion 处于技术圈的鄙视链末端，我们的博客很不畅销，链接丢到技术圈的tg群里，几乎无人响应，穷则思变。。。于是采取以下动作。
 
 ## **GitHub pages**
 
-围绕MegaEase的用户都是程序员，他们更习惯github，怎么样也得用个GitHub pages，这才更符合技术圈的风格，所以请求程序员帮助把内容都搬家到 GitHub，尽量简单，无需额外花费资金成本。
+围绕MegaEase的用户都是程序员，他们更习惯github，怎么样也得用个GitHub pages，这才更符合技术圈的风格，也为了将我们做tech marketing的过程开源，共享给更多有类似需求的人。所以将把内容都搬家到 GitHub，尽量简单，无需额外花费资金成本。
 
 选择方案 Jekyll：
 
@@ -46,7 +46,7 @@ writer: Atom
 [https://github.com/sighingnow/jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook) (Gitbook)
 
 
-请在网页底部**署名技术提供方**的链接，例如:
+在网页底部**署名技术提供方**的链接，例如:
 Creation by static site generator [Hugo](https://gohugo.io/), theme [multilingual](https://themes.gohugo.io/tags/multilingual/), Developer [Black Lu](https://lucasblacklu.github.io).
 
 更新：
