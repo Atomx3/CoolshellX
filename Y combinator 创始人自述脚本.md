@@ -1,7 +1,5 @@
 # Y combinator 创始人自述脚本
 
-## Y combinator 创始人自述脚本
-
 Created: April 18, 2023
 
 ### **Founder’s introduction**
