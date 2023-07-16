@@ -1,11 +1,11 @@
-# 给FI CEO写信并公开
+# 给FI CEO写信
 
 Created: May 29, 2023
 writer: Atom
 
 参考前文“首次加入国外创业孵化器遭欺诈”
 
-经过几次沟通无果，我给他们的CEO [Jonathan Greechan](https://www.linkedin.com/in/ACoAAAAQWaoBtZkkEcKXO3ATK-kuYFGnuiLtJxI) 发了linkedin消息，简单说明事情，以及📧 附件：与FI 和Megan 的几封邮件。
+经过几次沟通无果，我给他们的CEO [Jonathan Greechan](https://www.linkedin.com/in/ACoAAAAQWaoBtZkkEcKXO3ATK-kuYFGnuiLtJxI) 发了linkedin消息，简单说明事情，随 📧附件：与FI 和Megan 的几封邮件。
 
 如果FI不想让事情变得糟糕，就给一个积极的回应。
 一周后还没收到CEO 回应，那么我只好公开这封信和事情过程了，原文如下：
@@ -20,6 +20,7 @@ Hi Mr.  [Jonathan Greechan](https://www.linkedin.com/in/ACoAAAAQWaoBtZkkEcKXO3AT
 I regret to inform you that I have to withdraw from the FI program and request a refund.
 
 1. I entered Germany as a Ukrainian refugee background, Due to complicated bureaucratic procedures, it is hard to obtain work and residence permits, I could not carry out long-term business plans in Germany and would have to leave in the near future. Therefore, I requested to withdraw in February 2023 Spring program in Berlin;
+
 2. The FI user control panel did not clearly inform me how to refund, I applied for the Denmark plan again, but was rejected by Megan & the Admissions Team, it is said that I miss the final refund date, I don’t understand why and what’s the problem.
 
 Megan didn't consider the difficulties I was facing, and there was no space for negotiation. She just responded forcefully"By our policy, no refund, continue to participate in other plans. If drop out again, pay another fee."
